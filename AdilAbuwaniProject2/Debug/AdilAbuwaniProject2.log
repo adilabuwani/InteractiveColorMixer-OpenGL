@@ -1,0 +1,15 @@
+﻿  AdilAbuwaniProject2.cpp
+C:\Users\adila\Desktop\OpenGl-COMP-GRAPHICS\AdilAbuwaniProject2\AdilAbuwaniProject2\AdilAbuwaniProject2.cpp(39,1): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\adila\Desktop\OpenGl-COMP-GRAPHICS\AdilAbuwaniProject2\AdilAbuwaniProject2\AdilAbuwaniProject2.cpp(41,1): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\adila\Desktop\OpenGl-COMP-GRAPHICS\AdilAbuwaniProject2\AdilAbuwaniProject2\AdilAbuwaniProject2.cpp(67,14): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\adila\Desktop\OpenGl-COMP-GRAPHICS\AdilAbuwaniProject2\AdilAbuwaniProject2\AdilAbuwaniProject2.cpp(184,19): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\adila\Desktop\OpenGl-COMP-GRAPHICS\AdilAbuwaniProject2\AdilAbuwaniProject2\AdilAbuwaniProject2.cpp(195,19): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\adila\Desktop\OpenGl-COMP-GRAPHICS\AdilAbuwaniProject2\AdilAbuwaniProject2\AdilAbuwaniProject2.cpp(220,21): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\adila\Desktop\OpenGl-COMP-GRAPHICS\AdilAbuwaniProject2\AdilAbuwaniProject2\AdilAbuwaniProject2.cpp(228,30): warning C4244:  '=': conversion from 'GLfloat' to 'int', possible loss of data
+C:\Users\adila\Desktop\OpenGl-COMP-GRAPHICS\AdilAbuwaniProject2\AdilAbuwaniProject2\AdilAbuwaniProject2.cpp(229,34): warning C4244:  '=': conversion from 'GLfloat' to 'int', possible loss of data
+C:\Users\adila\Desktop\OpenGl-COMP-GRAPHICS\AdilAbuwaniProject2\AdilAbuwaniProject2\AdilAbuwaniProject2.cpp(230,32): warning C4244:  '=': conversion from 'GLfloat' to 'int', possible loss of data
+C:\Users\adila\Desktop\OpenGl-COMP-GRAPHICS\AdilAbuwaniProject2\AdilAbuwaniProject2\AdilAbuwaniProject2.cpp(269,19): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\adila\Desktop\OpenGl-COMP-GRAPHICS\AdilAbuwaniProject2\AdilAbuwaniProject2\AdilAbuwaniProject2.cpp(275,15): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\adila\Desktop\OpenGl-COMP-GRAPHICS\AdilAbuwaniProject2\AdilAbuwaniProject2\AdilAbuwaniProject2.cpp(306,19): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\adila\Desktop\OpenGl-COMP-GRAPHICS\AdilAbuwaniProject2\AdilAbuwaniProject2\AdilAbuwaniProject2.cpp(325,34): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+  AdilAbuwaniProject2.vcxproj -> C:\Users\adila\Desktop\OpenGl-COMP-GRAPHICS\AdilAbuwaniProject2\Debug\AdilAbuwaniProject2.exe
